@@ -10,8 +10,8 @@
 - 测试集：链接：https://pan.baidu.com/s/1fxbO6e_gEJC9gNhaTPcrKg 提取码：emqi 
 ### 设计划分
 #### 神经网络训练
-1. [程序思路](train/README.md)
+1. [程序说明](train/README.md)
 2. [程序源码](train/train.py)
 #### 简单前端界面
-1. [程序思路](interface/README.md)
+1. [程序说明](interface/README.md)
 2. [程序源码](interface/interface.py)

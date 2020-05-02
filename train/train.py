@@ -33,7 +33,7 @@ def bn_relu(x):
     return x
 
 
-def resner50(out_dims, input_shape=(128, 128, 1)):
+def resnet50(out_dims, input_shape=(128, 128, 1)):
     # input_dim = Input(input_shape)
     resnet_base_model = ResNet50(include_top=False, weights=None, input_shape=input_shape)
 
